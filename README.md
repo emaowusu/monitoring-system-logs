@@ -20,7 +20,7 @@ It includes:
 ### 🏗️ Project Structure
 
 
-
+```bash
 monitoring-stack/
 │
 ├── docker-compose.yml
@@ -31,7 +31,7 @@ monitoring-stack/
 ├── promtail/
 │   └── promtail.yaml
 └── README.md
-
+```
 
 
 ---
